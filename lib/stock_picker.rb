@@ -15,4 +15,4 @@ class StockPicker
 end
 
 stock = StockPicker.new
-p stock.stock_picker([17, 3, 6, 9, 5, 8, 16, 1, 2])
+p stock.stock_picker([17, 3, 6, 9, 5, 8, 16, 1, 2]) => # [1, 6]
